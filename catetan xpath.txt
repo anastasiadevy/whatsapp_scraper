@@ -1,0 +1,10 @@
+//*[@id="pane-side"]/div[1]/div/div/div[1]/div/div/div[2]/div[1]/div[1]/span/span
+
+
+parent: //*[@id="pane-side"]
+child: //*[@id="pane-side"]/div[1]
+
+//*[@id="pane-side"]/div[3]
+
+//*[@id="pane-side"]/div[1]/div/div
+//*[@id="pane-side"]/div[1]/div/div/div[1]
